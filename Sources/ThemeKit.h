@@ -9,7 +9,7 @@
 #import <Cocoa/Cocoa.h>
 
 //! Project version number for ThemeKit.
-FOUNDATION_EXPORT double ThemeKitVersionNumber;
+Cocoa_EXPORT double ThemeKitVersionNumber;
 
 //! Project version string for ThemeKit.
-FOUNDATION_EXPORT const unsigned char ThemeKitVersionString[];
+Cocoa_EXPORT const unsigned char ThemeKitVersionString[];
